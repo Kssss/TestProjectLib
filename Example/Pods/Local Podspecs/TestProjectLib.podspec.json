@@ -1,0 +1,19 @@
+{
+  "name": "TestProjectLib",
+  "authors": {
+    "admin": "5652903@qq.com"
+  },
+  "license": "MIT",
+  "homepage": "http://EXAMPLE/TestProjectLib",
+  "source": {
+    "git": "",
+    "tag": ""
+  },
+  "version": "1.0.1",
+  "summary": "aaa short description of TestProjectLib.",
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

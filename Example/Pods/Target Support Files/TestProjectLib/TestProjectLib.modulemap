@@ -1,0 +1,6 @@
+framework module TestProjectLib {
+  umbrella header "TestProjectLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
